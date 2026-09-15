@@ -5,7 +5,7 @@
 <h3 align="center">Cofundador de Intelidatia · Desarrollador Full Stack</h3>
 
 <p align="center">
-  Desarrollo de software para negocios y formación en inteligencia artificial.
+  Software a medida para la operativa de cada negocio.
 </p>
 
 <p align="center">
@@ -21,11 +21,22 @@
 
 ## Sobre mí
 
-Soy **Jesús Martínez**, desarrollador de software y **cofundador de [Intelidatia](https://intelidatia.com)**. En nuestro proyecto trabajamos en sistemas a medida para la operativa de negocios, combinando desarrollo e integraciones según lo que necesita cada proceso.
+Soy **Jesús Martínez**, desarrollador de software y **cofundador de [Intelidatia](https://intelidatia.com)**. En nuestro proyecto combinamos desarrollo e integraciones para construir sistemas adaptados a la forma en que trabaja cada negocio.
 
-Actualmente curso el **Máster en Big Data e Inteligencia Artificial en Tajamar**. Me interesa conectar esa formación con el desarrollo de aplicaciones y profundizar en la IA generativa y los agentes de IA.
+Mi recorrido combina **soporte técnico, desarrollo de aplicaciones y frontend**. Me interesa entender cómo se trabaja, detectar tareas que pueden simplificarse y convertir esas necesidades en software útil.
+
+## Experiencia
+
+| Empresa | Rol | Periodo |
+| :--- | :--- | :--- |
+| **[Intelidatia](https://intelidatia.com)** | Cofundador | Feb. 2026 – actualidad |
+| **Product Hackers** | Desarrollo frontend · Prácticas | Mar.–may. 2026 |
+| **Kanzan Tech** | Desarrollo con OutSystems · Prácticas | May. 2025 |
+| **Pueblanet** | Técnico informático · Prácticas | Abr.–jun. 2024 |
 
 ## Tecnologías e intereses
+
+Tecnologías presentes en mi formación y mis prácticas, junto con las líneas de IA en las que quiero profundizar.
 
 ### Desarrollo web
 
@@ -62,28 +73,19 @@ Actualmente curso el **Máster en Big Data e Inteligencia Artificial en Tajamar*
   <img src="https://img.shields.io/badge/Hermes_Agent-0891B2?style=for-the-badge" alt="Hermes Agent" />
 </p>
 
-Actualmente amplío mi formación en **Big Data e inteligencia artificial**. Me interesan Python, la IA generativa y la creación de agentes con herramientas como **Hermes Agent**.
-
-## Experiencia
-
-| Organización | Rol | Periodo |
-| :--- | :--- | :--- |
-| **[Intelidatia](https://intelidatia.com)** | Cofundador | Feb. 2026–actualidad |
-| **Product Hackers** | Desarrollo frontend · Prácticas | Mar.–may. 2026 |
-| **Kanzan Tech** | Desarrollo de aplicaciones con OutSystems · Prácticas | May. 2025 |
-| **Pueblanet** | Técnico informático · Prácticas | Abr.–jun. 2024 |
+Me interesa conectar **Python, la IA generativa y los agentes de IA** con aplicaciones y procesos de negocio, y profundizar en herramientas como **Hermes Agent**.
 
 ## Formación actual
 
 **Máster en Big Data e Inteligencia Artificial**  
 Tajamar · Madrid · **En curso**  
-Septiembre de 2026–junio de 2027, finalización prevista.
+Septiembre de 2026 – junio de 2027 (finalización prevista).
 
-Programa presencial desarrollado en colaboración con Microsoft, con contenidos de Big Data, matemáticas para la IA e inteligencia artificial tradicional y generativa.
+Formación presencial en colaboración con **Microsoft**, con contenidos de Big Data e inteligencia artificial tradicional y generativa.
 
 ## Conectemos
 
-Me interesa conocer a personas y equipos que trabajen en desarrollo de software, aplicaciones web e inteligencia artificial.
+Me interesa conocer a personas y equipos que conecten el desarrollo de software y la inteligencia artificial con necesidades reales de negocio.
 
 **LinkedIn:** [Jesús Martínez](https://www.linkedin.com/in/jesus-martinezz/)  
 **Intelidatia:** [intelidatia.com](https://intelidatia.com)  
