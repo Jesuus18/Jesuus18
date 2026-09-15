@@ -71,6 +71,7 @@ Actualmente amplío mi formación en **Big Data e inteligencia artificial**. Me 
 | **[Intelidatia](https://intelidatia.com)** | Cofundador | Feb. 2026–actualidad |
 | **Product Hackers** | Desarrollo frontend · Prácticas | Mar.–may. 2026 |
 | **Kanzan Tech** | Desarrollo de aplicaciones con OutSystems · Prácticas | May. 2025 |
+| **Pueblanet** | Técnico informático · Prácticas | Abr.–jun. 2024 |
 
 ## Formación actual
 
