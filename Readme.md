@@ -2,14 +2,14 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:06B6D4&height=210&section=header&text=Jes%C3%BAs%20Mart%C3%ADnez&fontSize=48&fontColor=FFFFFF&fontAlignY=36&desc=Software%20%C2%B7%20IA%20generativa%20%C2%B7%20Agentes%20de%20IA&descSize=18&descAlignY=58" alt="Jesús Martínez — Desarrollo de software, IA generativa y agentes de IA" width="100%" />
 </p>
 
-<h3 align="center">Co-fundador de Intelidatia · Desarrollador Full Stack</h3>
+<h3 align="center">Cofundador de Intelidatia · Desarrollador Full Stack</h3>
 
 <p align="center">
-  Del desarrollo web a la inteligencia artificial: construyendo soluciones con propósito.
+  Desarrollo de software para negocios y formación en inteligencia artificial.
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jesus-martinezz">
+  <a href="https://www.linkedin.com/in/jesus-martinezz/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="Visita mi perfil de LinkedIn" />
   </a>
   <a href="mailto:correodejesuss@gmail.com">
@@ -19,15 +19,13 @@
 
 ---
 
-## 👨‍💻 Sobre mí
+## Sobre mí
 
-Soy **Jesús Martínez**, desarrollador de software y **co-fundador de Intelidatia**. Me interesa convertir ideas y necesidades reales en aplicaciones útiles, combinando **desarrollo Full Stack, desarrollo web e inteligencia artificial generativa**.
+Soy **Jesús Martínez**, desarrollador de software y **cofundador de [Intelidatia](https://intelidatia.com)**. En nuestro proyecto trabajamos en sistemas a medida para la operativa de negocios, combinando desarrollo e integraciones según lo que necesita cada proceso.
 
-Mi experiencia abarca el desarrollo frontend y Full Stack. Ahora sigo ampliando mis conocimientos en **IA y Big Data**, con especial interés en la **creación de agentes de IA** y herramientas como **Hermes Agent**.
+Actualmente curso el **Máster en Big Data e Inteligencia Artificial en Tajamar**. Me interesa conectar esa formación con el desarrollo de aplicaciones y profundizar en la IA generativa y los agentes de IA.
 
-> Mi objetivo: conectar el desarrollo de software con la IA para crear soluciones que aporten valor.
-
-## 🛠️ Tecnologías y aptitudes
+## Tecnologías e intereses
 
 ### Lenguajes y datos
 
@@ -38,11 +36,11 @@ Mi experiencia abarca el desarrollo frontend y Full Stack. Ahora sigo ampliando 
   <img src="https://img.shields.io/badge/SQL-0F766E?style=for-the-badge" alt="SQL" />
 </p>
 
-### Inteligencia artificial y agentes
+### Intereses en inteligencia artificial y agentes
 
 <p>
   <img src="https://img.shields.io/badge/IA_generativa-7C3AED?style=for-the-badge" alt="Inteligencia artificial generativa" />
-  <img src="https://img.shields.io/badge/Agentes_de_IA-2563EB?style=for-the-badge" alt="Creación de agentes de IA" />
+  <img src="https://img.shields.io/badge/Agentes_de_IA-2563EB?style=for-the-badge" alt="Agentes de IA" />
   <img src="https://img.shields.io/badge/Hermes_Agent-0891B2?style=for-the-badge" alt="Hermes Agent" />
 </p>
 
@@ -54,26 +52,28 @@ Mi experiencia abarca el desarrollo frontend y Full Stack. Ahora sigo ampliando 
   <img src="https://img.shields.io/badge/DevOps-0F766E?style=for-the-badge" alt="DevOps" />
 </p>
 
-## 💼 Experiencia
+## Experiencia
 
-| Organización | Rol | Duración / situación |
+| Organización | Rol | Periodo |
 | :--- | :--- | :--- |
-| **Intelidatia** | Co-fundador | Actualidad |
-| **Product Hackers** | Desarrollador Frontend | 3 meses |
-| **Kanzan Tech** | Desarrollador Full Stack · Prácticas | 1 mes |
+| **[Intelidatia](https://intelidatia.com)** | Cofundador | Feb. 2026–actualidad |
+| **Product Hackers** | Desarrollo frontend · Prácticas | Mar.–may. 2026 |
+| **Kanzan Tech** | Desarrollo de aplicaciones con OutSystems · Prácticas | May. 2025 |
 
-## 🎓 Formación actual
+## Formación actual
 
-**Máster en Inteligencia Artificial y Big Data**  
-Tajamar · Madrid · **En curso**
+**Máster en Big Data e Inteligencia Artificial**  
+Tajamar · Madrid · **En curso**  
+Septiembre de 2026–junio de 2027, finalización prevista.
 
-Continúo formándome para ampliar mi base como desarrollador y profundizar en la aplicación de la inteligencia artificial y los datos a proyectos de software.
+Programa presencial desarrollado en colaboración con Microsoft, con contenidos de Big Data, matemáticas para la IA e inteligencia artificial tradicional y generativa.
 
-## 🤝 Conectemos
+## Conectemos
 
-Me interesa compartir ideas y colaborar en proyectos de **desarrollo de software, aplicaciones web e inteligencia artificial**.
+Me interesa conocer a personas y equipos que trabajen en desarrollo de software, aplicaciones web e inteligencia artificial.
 
-**LinkedIn:** [Jesús Martínez](https://www.linkedin.com/in/jesus-martinezz)  
+**LinkedIn:** [Jesús Martínez](https://www.linkedin.com/in/jesus-martinezz/)  
+**Intelidatia:** [intelidatia.com](https://intelidatia.com)  
 **Correo:** [correodejesuss@gmail.com](mailto:correodejesuss@gmail.com)
 
 ---
